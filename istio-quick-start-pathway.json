@@ -1,0 +1,11 @@
+{
+  "title": "快速开始 Istio",
+  "description": "在线阅读 Istio Handbook/Istio 服务网格进阶实践：https://www.servicemesher.com/istio-handbook/",
+  "courses": [
+    {
+      "course_id": "install-istio-using-istioctl",
+      "title": "安装 istio",
+      "description": "介绍使用 istioctl 安装 istio 的方法"
+    }
+  ]
+}
